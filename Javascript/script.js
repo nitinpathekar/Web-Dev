@@ -1,25 +1,52 @@
-// console.log("nitin");
-// var a=12;
-// function abcs(){
+// // // // // var name_="Nitin";
+// // // // // //var name_="Pawar"(not supported)
 
-//     var a=11;
-//     function def(){
-//         var b=12;
+// // // // // let name ="Nitin Pathekar";
+// // // // // let age = 20;
+// // // // // let totalPrice =1000;
+// // // // // // let name ="nitin";(not supported)
+// // // // // // name ="nitin";(supported)
 
-//     }
-// }
-// var a=[12,334,4,2,432,1234,4,3];
-// var b=[...a];
+// // // // // const pi=3.14;
+// // // // // // const pi=3;(not supported)
+// // // // // // pi=3;(not supported)
 
-// a.forEach(function(val) {
-//     console.log(val+1);
-    
-// });
-var obj ={
-    name :"nitin",
-    age: 18,
-    city  :"betul"
-}
-for (var key in obj){
-    onj[key]
-}
+// // // // // const
+// // // // // // const a;
+// // // // function printname(n){
+// // // // for (let i = 0;i<n;i++){
+// // // //     console.log("Nitin Pathekar");
+// // // // }
+// // // // }
+// // // // printname(4 );
+
+
+
+// // // function sum(start, end){
+// // //     let sum=0;
+// // //     for (let i=start;i<=end;i++){
+// // //        sum+=i;
+// // //     }
+// // //     return sum;
+// // // }
+// // // console.log(sum(8,9));
+// // let i=1,sum=0;
+// // let end=prompt("till");
+// // while(i<end)
+// //     {
+// //         sum+=i;
+// //         i++
+// //     };
+
+
+// let obj ={
+//     item :"pen",
+//     price:10,
+// };
+// let output=`the cost of  ${obj.item} is ${obj.price}`;
+// console.log(output);
+// console.log("the cost of",obj.item,"is",obj.price);
+// let specialString=`this is a temp literal`;
+// console.log(typeof specialString);
+
+console.log("Nitin\nPathekar")
