@@ -81,3 +81,10 @@
 // console.log(
 //     avg(array)
 // )
+let array=[250,645,300,900,50];
+let n =array.length
+
+    for(let i=0;i<n;i++){
+        array[i]=array[i]*0.9;
+    }
+console.log(array);
