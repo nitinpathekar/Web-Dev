@@ -50,3 +50,4 @@
 // console.log(typeof specialString);
 
 console.log("Nitin\nPathekar")
+console.log("Nitin\tPathekar")
